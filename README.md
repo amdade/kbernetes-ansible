@@ -1,4 +1,4 @@
-# kbernetes-ansible
+# kubernetes-ansible
 
 
 # How to create Kubernetes cluster with Ansible playbook Prerequisites:
